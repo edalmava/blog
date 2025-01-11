@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Jekyll - generador de sitios estáticos"
 date:   2025-01-10 20:58:48 -0500
 categories: jekyll update
 ---
